@@ -1,0 +1,13 @@
+# Bot Telegram
+python-telegram-bot==20.6
+
+# Web framework para webhook
+Flask==2.3.3
+
+# Servidor de produção
+gunicorn==21.2.0
+
+# Utilidades
+requests==2.31.0
+beautifulsoup4==4.12.2
+schedule==1.2.0
